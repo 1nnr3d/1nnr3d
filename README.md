@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm INN RED</h1>
+<h3 align="center">Python developer 🐍</h3>
 
-<!--
-**1nnr3d/1nnr3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=1nnr3d" alt="1nnr3d" /> </p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [https://github.com/1nnr3d](https://github.com/1nnr3d)
+
+- 💬 Ask me about **Python**
+
+- 📫 How to reach me **bbod3326@gmail.com**
+
+- ⚡ Fun fact **Coffee**
+
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1nnr3d&layout=compact" alt="1nnr3d" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1nnr3d&show_icons=true" alt="1nnr3d" /></p>
+
