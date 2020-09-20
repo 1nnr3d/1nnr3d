@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm INN RED</h1>
-<h3 align="center">Python developer 🐍</h3>
+<h1 align="center"> **Hi 👋, I'm INN RED</h1>
+<h3 align="center"> **Python developer</h3>
 
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
