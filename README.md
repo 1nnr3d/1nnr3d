@@ -13,11 +13,12 @@
 
 - ⚡ Fun fact **Coffee**
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+<p align="center">
+    <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=1nnr3d&count_private=true&show_icons=true&theme=vue"/></a>
+    <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1nnr3d&theme=vue&hide=tex"/></a>
+</p>
+
+<p align="left">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1nnr3d&layout=compact" alt="1nnr3d" />
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1nnr3d&show_icons=true" alt="1nnr3d" /></p>
-
