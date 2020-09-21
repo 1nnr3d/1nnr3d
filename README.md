@@ -1,4 +1,4 @@
-<p align="center">![Image](https://github.com/1nnr3d/1nnr3d/blob/master/image.png)</p>
+<p align="center"><img align="center" scr="https://github.com/1nnr3d/1nnr3d/blob/master/image00000.png"/></p>
 
 - 🌱 I’m currently learning **Python**
 
