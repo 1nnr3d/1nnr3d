@@ -12,7 +12,10 @@
 
 - ⚡ Fun fact **Coffee**
 
+&nbsp;
+
 <p align="center">
     <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=1nnr3d&count_private=true&show_icons=true&theme=vue"/></a>
+    &nbsp;
     <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1nnr3d&theme=vue&hide=tex"/></a>
 </p>
