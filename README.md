@@ -1,6 +1,5 @@
 <p align="center">
     <a><img align="center" src="https://github.com/1nnr3d/1nnr3d/blob/master/img.png"/></a>
-    &nbsp;
 </p>
 
 &nbsp;
