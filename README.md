@@ -1,4 +1,6 @@
-<p align="center"><img align="center" scr="https://github.com/1nnr3d/1nnr3d/blob/master/image00000.png"/></p>
+<p align="center">
+    <a><img align="center" src="https://github.com/1nnr3d/1nnr3d/blob/master/image00000.png"/></a>
+</p>
 
 - 🌱 I’m currently learning **Python**
 
