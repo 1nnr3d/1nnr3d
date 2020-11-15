@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/1nnr3d](https://github.com/1nnr3d)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Discord:** BBOD#0495
 
 - 📫 How to reach me **bbod3326@gmail.com**
 
