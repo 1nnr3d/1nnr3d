@@ -8,9 +8,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/1nnr3d](https://github.com/1nnr3d)
 
-- 💬 Ask me about **Discord:** BBOD#0495
+- 💬 Ask me about *
 
-- 📫 How to reach me **bbod3326@gmail.com**
+- 📫 How to reach me **Discord:** BBOD#0495
 
 - ⚡ Fun fact **Coffee**
 
