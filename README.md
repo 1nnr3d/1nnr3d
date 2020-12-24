@@ -10,7 +10,7 @@
 
 - 💬 Ask me about *
 
-- 📫 How to reach me **Discord:** BBOD#0495
+- 📫 How to reach me **Discord:** **innthered#1360**
 
 - ⚡ Fun fact **Coffee**
 
