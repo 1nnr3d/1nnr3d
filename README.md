@@ -1,10 +1,8 @@
-<p align="center">
-    <a><img align="center" src="https://github.com/1nnr3d/1nnr3d/blob/master/img.png"/></a>
-</p>
+
 
 &nbsp;
 
-- 🌱 I’m currently learning **Python and Cyber Sec**
+- 🌱 I’m currently learning **Javascript and Cyber Sec**
 
 - 👨‍💻 All of my projects are available at [https://github.com/1nnr3d](https://github.com/1nnr3d)
 
